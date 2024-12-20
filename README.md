@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Praneeth!
-🚀 **Researcher** | 🧠 **Generative AI Enthusiast** | 📊 **Transit Data Analyst**
+🚀 **Researcher** | 🧠 **Generative AI** | 🚇📊 **Transit Data**
 - 👀 Looking for AI roles in tech
 
 ## 🔭 Research Projects
