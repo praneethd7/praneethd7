@@ -11,7 +11,7 @@
   A fast and efficient library for generating bus stop spacings from General Transit Feed Specification (GTFS) data.
   
 - **🅿 [ParkingLot Segmentation](https://github.com/UTEL-UIUC/ParkSeg12k):**
-  Implementing computer vision techniques to accurately segment parking lot areas in satellite imagery.
+  A dataset and NIR-enhanced technique for parking lot segmentation using satellite imagery.
   
 - **🏨 [CrackSeg9k](https://github.com/Dhananjay42/crackseg9k):**
   A dataset and model for detecting and segmenting pavement cracks to assist in infrastructure maintenance.
