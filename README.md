@@ -1,4 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Praneeth!
+🚀 **Researcher** | 🧠 **Generative AI Enthusiast** | 📊 **Transit Data Analyst**
+- 👀 Looking for AI roles in tech
+
+## 🔭 Research Projects
+
+- **🚍 [TransitGPT](https://github.com/UTEL-UIUC/TransitGPT):**  A conversational AI chatbot to enhance transit data accessibility using Large Language Models (LLMs).
+- **🚏 [GTFS-segments](https://github.com/UTEL-UIUC/gtfs_segments):**  A fast and efficient library for generating bus stop spacings from General Transit Feed Specification (GTFS) data.
+- **🅿 [ParkingLot Segmentation](https://github.com/UTEL-UIUC/ParkSeg12k):**  Implementing computer vision techniques to accurately segment parking lot areas in satellite imagery.
+- **🏨 [CrackSeg9k](https://github.com/Dhananjay42/crackseg9k):**  A dataset and model for detecting and segmenting pavement cracks to assist in infrastructure maintenance.
+
+## 🌱 Skills & Interests
+
+- **AI & ML:**  
+  Proficient in Large Language Models (LLMs), Natural Language Processing (NLP), and optimization techniques.
+- **Data Analysis:**  
+  Experienced with Python, SQL, and R for data manipulation and analysis.
+- **Software:**  
+  Skilled in software development with a focus on creating efficient and scalable solutions.
+## 📫 How to Reach Me
+
+- **LinkedIn:** [linkedin.com/in/praneethd7](https://www.linkedin.com/in/praneethd7/)
+- **Email:** sd37@illinois.edu
+  
+## 💡 Fun Facts
+
+- I enjoy playing pickleball 🏓.  
+- Fluent in Hindi with a Hyderabadi dialect 🇮🇳.  
+- Avid listener of 'Jo Bheji Thi Dua' 🎶.
+
+
+
 
 <!--
 **praneethd7/praneethd7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
