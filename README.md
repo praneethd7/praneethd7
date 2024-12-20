@@ -4,10 +4,17 @@
 
 ## 🔭 Research Projects
 
-- **🚍 [TransitGPT](https://github.com/UTEL-UIUC/TransitGPT):**  A conversational AI chatbot to enhance transit data accessibility using Large Language Models (LLMs).
-- **🚏 [GTFS-segments](https://github.com/UTEL-UIUC/gtfs_segments):**  A fast and efficient library for generating bus stop spacings from General Transit Feed Specification (GTFS) data.
-- **🅿 [ParkingLot Segmentation](https://github.com/UTEL-UIUC/ParkSeg12k):**  Implementing computer vision techniques to accurately segment parking lot areas in satellite imagery.
-- **🏨 [CrackSeg9k](https://github.com/Dhananjay42/crackseg9k):**  A dataset and model for detecting and segmenting pavement cracks to assist in infrastructure maintenance.
+- **🚍 [TransitGPT](https://github.com/UTEL-UIUC/TransitGPT):**
+  A conversational AI chatbot to enhance transit data accessibility using Large Language Models (LLMs).
+  
+- **🚏 [GTFS-segments](https://github.com/UTEL-UIUC/gtfs_segments):**
+  A fast and efficient library for generating bus stop spacings from General Transit Feed Specification (GTFS) data.
+  
+- **🅿 [ParkingLot Segmentation](https://github.com/UTEL-UIUC/ParkSeg12k):**
+  Implementing computer vision techniques to accurately segment parking lot areas in satellite imagery.
+  
+- **🏨 [CrackSeg9k](https://github.com/Dhananjay42/crackseg9k):**
+  A dataset and model for detecting and segmenting pavement cracks to assist in infrastructure maintenance.
 
 ## 🌱 Skills & Interests
 
