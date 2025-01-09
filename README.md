@@ -19,11 +19,11 @@
 ## 🌱 Skills & Interests
 
 - **AI & ML:**  
-  Proficient in Large Language Models (LLMs), Natural Language Processing (NLP), and optimization techniques.
+  Proficient in Large Language Models (LLMs), Natural Language Processing (NLP), Computer Vision (CV), and optimization techniques.
 - **Data Analysis:**  
   Experienced with Python, SQL, and R for data manipulation and analysis.
 - **Software:**  
-  Skilled in software development with a focus on creating efficient and scalable solutions.
+  Skilled in software development with a focus on creating practical, efficient, and scalable solutions.
 ## 📫 How to Reach Me
 
 - **LinkedIn:** [linkedin.com/in/praneethd7](https://www.linkedin.com/in/praneethd7/)
