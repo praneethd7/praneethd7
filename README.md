@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Praneeth!
 🚀 **Researcher** | 🧠 **Generative AI**  |📸 **Computer Vision** | 🚇📊 **Transit Data**
-- 👀 Looking for AI roles in tech
 
 ## 🔭 Research Projects
 
