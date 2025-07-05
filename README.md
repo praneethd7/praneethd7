@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Praneeth!
-🚀 **Researcher** | 🧠 **Generative AI**  |📸 **Computer Vision** | 🚇📊 **Transit Data**
+🚀 **Researcher** | 🧠 **Generative AI**  | 📸 **Computer Vision** | 🚇📊 **Transit Data**
 
 ## 🔭 Research Projects
 
