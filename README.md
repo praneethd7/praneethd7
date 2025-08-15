@@ -27,7 +27,7 @@
 
 - **LinkedIn:** [linkedin.com/in/praneethd7](https://www.linkedin.com/in/praneethd7/)
 - **AlphaXiv:** [https://praneethd7.alphaxiv.io/](https://praneethd7.alphaxiv.io/)
-- **Email:** sd37@illinois.edu
+- **Email:** praneethdevunuri@gmail.com
   
 ## 💡 Fun Facts
 
